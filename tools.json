@@ -1,1 +1,47 @@
-tools.json
+[
+  {
+    "name": "Flash Browser",
+    "icon": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=80&h=80&fit=crop",
+    "author": "Bedusec Labs",
+    "description": "Lightweight, fast browser with ad-blocking.",
+    "downloadUrl": "https://example.com/flashbrowser.apk",
+    "previewImages": [
+      "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=300&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=300&h=500&fit=crop"
+    ],
+    "category": "Tools",
+    "version": "3.2.1",
+    "lastUpdate": "2026-03-15",
+    "downloads": 2150,
+    "rating": 4.5
+  },
+  {
+    "name": "Online Password Generator",
+    "icon": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=80&h=80&fit=crop",
+    "author": "SecurTech",
+    "description": "Generate secure passwords instantly.",
+    "url": "https://example.com/password-gen",
+    "previewImages": [
+      "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=300&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=300&h=500&fit=crop"
+    ],
+    "category": "Web Tools",
+    "version": "1.0",
+    "lastUpdate": "2026-03-10",
+    "downloads": 500,
+    "rating": 4.8
+  },
+  {
+    "name": "QR Code Scanner (Web)",
+    "icon": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=80&h=80&fit=crop",
+    "author": "ScanTech",
+    "description": "Scan QR codes directly in your browser.",
+    "url": "https://example.com/qr-scanner",
+    "previewImages": [],
+    "category": "Web Tools",
+    "version": "1.2",
+    "lastUpdate": "2026-03-05",
+    "downloads": 1200,
+    "rating": 4.6
+  }
+]
