@@ -1,19 +1,4 @@
-[{
-    "name": "Code Generator AI",
-    "icon": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=80&h=80&fit=crop",
-    "author": "AI Dev Labs",
-    "description": "Generate code snippets from natural language using advanced AI.",
-    "downloadUrl": "https://example.com/codegen.apk",
-    "previewImages": [
-      "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=300&h=500&fit=crop",
-      "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=300&h=500&fit=crop"
-    ],
-    "category": "AIs",
-    "version": "1.2.0",
-    "lastUpdate": "2026-03-20",
-    "downloads": 1250
-  },
- {
+[ {
 
     "name": "Hacker AI",
 
@@ -21,7 +6,7 @@
 
     "author": "BTEHub Solutions",
 
-    "description": "Hacker AI is an AI-powered source code review tool that scans your codebase for security vulnerabilities like SQL injection, command injection, and file inclusion. Simply upload your source code, and within minutes it delivers a detailed vulnerability report straight to your inbox. It supports multiple programming languages and helps developers identify and fix weaknesses before they can be exploited. Built by a French cybersecurity company, it's designed for organizations and individuals conducting authorized security assessments.",
+    "description": "Hacker AI is an AI-powered source code review tool that scans your codebase for security vulnerabilities like SQL injection, command injection, and file inclusion. Simply upload your source code, and within minutes it delivers a detailed vulnerability report straight to your inbox. It supports multiple programming languages and helps developers identify and fix weaknesses before they can be exploited. Built by a French ybersecurity company, it's designed for organizations and individuals conducting authorized security assessments.",
 
     "url": "https://hackerai.co",
 
