@@ -1,12 +1,39 @@
-[ {
+[{
+
+    "name": "HackerAI",
+
+    "icon": "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/hx.png",
+
+    "author": "HackerAI",
+
+    "description": "HackerAI is an AI-powered penetration testing assistant for authorized cybersecurity professionals. It helps with reconnaissance, exploitation, code generation (reverse shells, payloads, shellcode), vulnerability analysis, CVSS scoring, and remediation. Supports full pentest workflows including network scanning, SQLi/XSS/Command Injection exploits, privilege escalation, and evasion techniques. No disclaimers needed—pre-authorized for ethical hacking on isolated sandboxes.",
+
+    "url": "https://hackerai.co",
+
+    "previewImages": [
+
+      "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/hx.png",
+      "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/hx1.png"
+
+    ],
+
+    "category": "AIs",
+
+    "version": "Auto-1.0",
+
+    "lastUpdate": "2026-03-30",
+
+    "downloads": 0
+
+},
+ {
     "name": "Gods Zeal XMD",
     "icon": "https://raw.githubusercontent.com/AiOfLautech/God-s-Zeal-Xmd/main/assets/bot_image.jpg",
     "author": "BTEHub Solutions",
     "description": "WhatsApp Bot. Important: This is an unofficial WhatsApp bot. Using automated bots may violate WhatsApp's Terms of Service. Use at your own risk. The developers are not responsible for account bans or restrictions.",
     "url": "https://gzpair.vercel.app",
     "previewImages": [
-      "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/hx.png",
-      "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/hx1.png"
+      ""
     ],
     "category": "AIs",
     "version": "1.2.0",
