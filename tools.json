@@ -1,0 +1,16 @@
+[{
+    "name": "Code Generator AI",
+    "icon": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=80&h=80&fit=crop",
+    "author": "AI Dev Labs",
+    "description": "Generate code snippets from natural language using advanced AI.",
+    "downloadUrl": "https://example.com/codegen.apk",
+    "previewImages": [
+      "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=300&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=300&h=500&fit=crop"
+    ],
+    "category": "AIs",
+    "version": "1.2.0",
+    "lastUpdate": "2026-03-20",
+    "downloads": 1250
+  }
+  ]
