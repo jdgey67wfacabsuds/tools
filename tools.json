@@ -23,7 +23,7 @@
 
     "description": "Hacker AI is an AI-powered source code review tool that scans your codebase for security vulnerabilities like SQL injection, command injection, and file inclusion. Simply upload your source code, and within minutes it delivers a detailed vulnerability report straight to your inbox. It supports multiple programming languages and helps developers identify and fix weaknesses before they can be exploited. Built by a French cybersecurity company, it's designed for organizations and individuals conducting authorized security assessments.",
 
-    "downloadUrl": "https://hackerai.co",
+    "url": "https://hackerai.co",
 
     "previewImages": [
 
