@@ -1,8 +1,8 @@
 [ {
-    "name": "Hacker AI",
-    "icon": "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/hx.png",
+    "name": "Gods Zeal XMD",
+    "icon": "https://raw.githubusercontent.com/AiOfLautech/God-s-Zeal-Xmd/main/assets/bot_image.jpg",
     "author": "BTEHub Solutions",
-    "description": "Hacker AI is an AI-powered source code review tool that scans your codebase for security vulnerabilities like SQL injection, command injection, and file inclusion. Simply upload your source code, and within minutes it delivers a detailed vulnerability report straight to your inbox. It supports multiple programming languages and helps developers identify and fix weaknesses before they can be exploited. Built by a French ybersecurity company, it's designed for organizations and individuals conducting authorized security assessments.",
+    "description": "WhatsApp Bot. Important: This is an unofficial WhatsApp bot. Using automated bots may violate WhatsApp's Terms of Service. Use at your own risk. The developers are not responsible for account bans or restrictions.",
     "url": "https://hackerai.co",
     "previewImages": [
       "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/hx.png",
@@ -12,7 +12,9 @@
     "version": "1.2.0",
     "lastUpdate": "2026-03-20",
     "downloads": 0
-} 
+},
+ 
+ 
   ]
 
 
