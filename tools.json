@@ -39,6 +39,20 @@
     "version": "1.2.0",
     "lastUpdate": "2026-03-20",
     "downloads": 0
+},
+ {
+    "name": "BeduHashes",
+    "icon": "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/bhs.webp",
+    "author": "BeduSec Labs",
+    "description": "Comprehensive MD5 and SHA256 decrypter with rockyou text files, bruteforce and custom word list support. Always remember to use Pentesting tools for legal and educational purposes only.",
+    "url": "https://bedusec.github.io/beduhashes/index2",
+    "previewImages": [
+      ""
+    ],
+    "category": "Security",
+    "version": "2.0",
+    "lastUpdate": "2026-03-20",
+    "downloads": 0
 }
  
  
