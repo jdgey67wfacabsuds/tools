@@ -41,19 +41,21 @@
     "downloads": 0
 },
  {
-    "name": "BeduHashes",
-    "icon": "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/bhs.webp",
-    "author": "BeduSec Labs",
+    "name": "Zip Deployer",
+    "icon": "https://iciiwhite.github.io/zip-deployer/favicon.ico",
+    "author": "Icii White",
     "description": "Comprehensive MD5 and SHA256 decrypter with rockyou text files, bruteforce and custom word list support. Always remember to use Pentesting tools for legal and educational purposes only.",
-    "url": "https://bedusec.github.io/beduhashes/index2",
+    "url": "https://iciiwhite.github.io/zip-deployer/",
     "previewImages": [
       ""
     ],
-    "category": "Security",
+    "category": "Tools",
     "version": "2.0",
     "lastUpdate": "2026-03-20",
     "downloads": 0
-}
+},
+ 
+ 
  
  
   ]
