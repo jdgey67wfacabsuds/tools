@@ -41,19 +41,21 @@
     "downloads": 0
 },
  {
-    "name": "Zip Deployer",
-    "icon": "https://iciiwhite.github.io/zip-deployer/favicon.ico",
-    "author": "Icii White",
+    "name": "BeduHashes",
+    "icon": "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/bhs.webl",
+    "author": "BeduSec Labs",
     "description": "Browser-based tool to extract a ZIP file and push its contents directly to a GitHub repository using the GitHub API. No server required. Works with existing or empty repos. Live log output. Secure, client-side only.",
-    "url": "https://iciiwhite.github.io/zip-deployer/",
+    "url": "https://bedusec.github.io/beduhashes/index2",
     "previewImages": [
       ""
     ],
-    "category": "Tools",
+    "category": "Security",
     "version": "2.0",
     "lastUpdate": "2026-03-20",
     "downloads": 0
-}
+},
+ 
+ 
  
  
  
