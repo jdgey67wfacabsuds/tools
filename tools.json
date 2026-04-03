@@ -68,6 +68,33 @@
     "version": "2.0",
     "lastUpdate": "2026-03-20",
     "downloads": 0
+},
+  {
+
+    "name": "Writter",
+
+    "icon": "https://raw.githubusercontent.com/jdgey67wfacabsuds/uploads/main/bhs.webp",
+
+    "author": "Hussein Kizz",
+
+    "description": "The minimalistic markdown editor for your notes and thoughts.",
+
+    "url": "https://writter.ink",
+
+    "previewImages": [
+
+      ""
+
+    ],
+
+    "category": "Utilities",
+
+    "version": "2.0",
+
+    "lastUpdate": "2026-03-20",
+
+    "downloads": 0
+
 }
 
  
