@@ -95,6 +95,21 @@
 
     "downloads": 0
 
+},
+  {
+  "name": "StudyCircle AI",
+  "icon": "https://i.postimg.cc/zvTXtpvT/1768970840949.png",
+  "author": "Opemipo Ajayi",
+  "description": "StudyCircle AI is an AI-powered digital classroom where students learn through interactive study groups, AI teaching, and structured lessons designed to improve understanding and exam performance.",
+  "url": "https://studycircleai.lovable.app",
+  "previewImages": [
+    "https://i.postimg.cc/3NjYCRfK/Screenshot-20260404-204701.png",
+    "https://i.postimg.cc/jStC9Vym/Screenshot-20260406-235843.png"
+  ],
+  "category": "Education",
+  "version": "1.0",
+  "lastUpdate": "2026-04-07",
+  "downloads": 0
 }
 
  
